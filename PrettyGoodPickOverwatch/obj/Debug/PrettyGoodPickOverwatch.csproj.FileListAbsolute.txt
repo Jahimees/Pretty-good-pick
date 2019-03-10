@@ -1,0 +1,9 @@
+D:\Облако\OneDrive\Java0\Карену\PrettyGoodPickOverwatch\PrettyGoodPickOverwatch\bin\Debug\PrettyGoodPickOverwatch.exe.config
+D:\Облако\OneDrive\Java0\Карену\PrettyGoodPickOverwatch\PrettyGoodPickOverwatch\bin\Debug\PrettyGoodPickOverwatch.exe
+D:\Облако\OneDrive\Java0\Карену\PrettyGoodPickOverwatch\PrettyGoodPickOverwatch\bin\Debug\PrettyGoodPickOverwatch.pdb
+D:\Облако\OneDrive\Java0\Карену\PrettyGoodPickOverwatch\PrettyGoodPickOverwatch\obj\Debug\PrettyGoodPickOverwatch.csprojResolveAssemblyReference.cache
+D:\Облако\OneDrive\Java0\Карену\PrettyGoodPickOverwatch\PrettyGoodPickOverwatch\obj\Debug\PrettyGoodPickOverwatch.mainForm.resources
+D:\Облако\OneDrive\Java0\Карену\PrettyGoodPickOverwatch\PrettyGoodPickOverwatch\obj\Debug\PrettyGoodPickOverwatch.Properties.Resources.resources
+D:\Облако\OneDrive\Java0\Карену\PrettyGoodPickOverwatch\PrettyGoodPickOverwatch\obj\Debug\PrettyGoodPickOverwatch.csproj.GenerateResource.Cache
+D:\Облако\OneDrive\Java0\Карену\PrettyGoodPickOverwatch\PrettyGoodPickOverwatch\obj\Debug\PrettyGoodPickOverwatch.exe
+D:\Облако\OneDrive\Java0\Карену\PrettyGoodPickOverwatch\PrettyGoodPickOverwatch\obj\Debug\PrettyGoodPickOverwatch.pdb
